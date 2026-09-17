@@ -6,7 +6,14 @@
     source .venv/bin/activate      # Windows: .venv\Scripts\activate 
     pip install -r requirements.txt 
 this python commandline program converts a numerical grade from 1-100 and returns a letter grade equivalent.
-simply clon this repo, and at command prompt navigate to app root folder and from inside its folder run:
+
+to run:
+
+create a new folder, then run the following at command prompt:
+
+git clone https://github.com/Arte8/ai511git-Capstone
+
+and at command prompt navigate to app root folder and from inside its folder run:
 
 python .\capstoneArtLobrinLab1.py
 
