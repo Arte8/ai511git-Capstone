@@ -1,0 +1,8 @@
+#  4 Python virtual envir
+.venv/
+
+# 4 Python cach
+__pycache__/
+
+# 4 Envir variables / secrets
+.env
