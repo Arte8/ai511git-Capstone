@@ -15,7 +15,7 @@ git clone https://github.com/Arte8/ai511git-Capstone
 
 and at command prompt navigate to this cloned folder, then navigate to this root folder and from inside this chosen folder:
 
-then run with the following at commandprompt
+then run with the following at command prompt
 
 python .\capstoneArtLobrinLab1.py
 
