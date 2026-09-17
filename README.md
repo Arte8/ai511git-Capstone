@@ -13,7 +13,7 @@ create a new folder, then run the following at command prompt:
 
 git clone https://github.com/Arte8/ai511git-Capstone
 
-and at command prompt navigate to app root folder and from inside its folder run:
+and at command prompt navigate to app root folder and from inside this chosen folder run:
 
 python .\capstoneArtLobrinLab1.py
 
